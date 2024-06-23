@@ -95,7 +95,7 @@ public class Class2 {
 		{
 		System.out.println("else loop is not present");	
 		}	
-		// program to find given number is even or odd
+		// program to find given number is even or odd                                              
 		
 		int num = 253;
 		int remainder = num%2;
